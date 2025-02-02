@@ -16,3 +16,6 @@ CONCLUTION :In conclusion, my personal portfolio website is a dynamic representa
 It’s not just a collection of work, but a testament to my passion for delivering thoughtful, user-centered solutions across a variety of projects. 
 I invite you to explore my portfolio, dive into case studies, and get a sense of how I approach each project with dedication and innovation. 
 Whether you're looking for collaboration, inspiration, or just want to connect, I’m always open to new opportunities. 
+OUTPUT:
+<!-- Uploading "OUTPUT.png"... -->
+
